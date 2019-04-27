@@ -1,0 +1,15 @@
+c:\users\тынышбаева.corp\source\repos\HM_Migration\HM_Migration\obj\Debug\HM_Migration.csprojAssemblyReference.cache
+c:\users\тынышбаева.corp\source\repos\HM_Migration\HM_Migration\obj\Debug\HM_Migration.csproj.CoreCompileInputs.cache
+c:\users\тынышбаева.corp\source\repos\HM_Migration\HM_Migration\bin\Debug\HM_Migration.exe.config
+c:\users\тынышбаева.corp\source\repos\HM_Migration\HM_Migration\bin\Debug\HM_Migration.exe
+c:\users\тынышбаева.corp\source\repos\HM_Migration\HM_Migration\bin\Debug\HM_Migration.pdb
+c:\users\тынышбаева.corp\source\repos\HM_Migration\HM_Migration\bin\Debug\EntityFramework.dll
+c:\users\тынышбаева.corp\source\repos\HM_Migration\HM_Migration\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\тынышбаева.corp\source\repos\HM_Migration\HM_Migration\bin\Debug\EntityFramework.xml
+c:\users\тынышбаева.corp\source\repos\HM_Migration\HM_Migration\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\тынышбаева.corp\source\repos\HM_Migration\HM_Migration\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\тынышбаева.corp\source\repos\HM_Migration\HM_Migration\obj\Debug\HM_Migration.csproj.CopyComplete
+c:\users\тынышбаева.corp\source\repos\HM_Migration\HM_Migration\obj\Debug\HM_Migration.exe
+c:\users\тынышбаева.corp\source\repos\HM_Migration\HM_Migration\obj\Debug\HM_Migration.pdb
+c:\users\тынышбаева.corp\source\repos\HM_Migration\HM_Migration\obj\Debug\HM_Migration.Migrations.AddNewVisitor.resources
+c:\users\тынышбаева.corp\source\repos\HM_Migration\HM_Migration\obj\Debug\HM_Migration.csproj.GenerateResource.cache
